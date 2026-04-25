@@ -1,0 +1,10 @@
+{
+  "blindnessEnabled": true,
+  "titleEnabled": true,
+  "admitCommands": [
+    "ban [User] 14d Cheating - Admitted"
+  ],
+  "logoutCommands": [
+    "ban [User] 30d Logged out whilst frozen"
+  ]
+}

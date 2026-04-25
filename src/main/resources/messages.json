@@ -1,0 +1,18 @@
+{
+  "prefix": "",
+  "noPermission": "&cYou do not have permission to use this command.",
+  "usagePlayer": "&cUsage: /[Command] <player>",
+  "usageAdmit": "&cUsage: /[Command]",
+  "playerNotFound": "&cPlayer '&f[User]&c' was not found.",
+  "alreadyFrozen": "&e[User] is already frozen.",
+  "frozenSender": "&a[User] has been frozen.",
+  "frozenTarget": "&#ff0000&lYou have been frozen.",
+  "notFrozen": "&e[User] is not frozen.",
+  "unfrozenSender": "&a[User] has been unfrozen.",
+  "unfrozenTarget": "&aYou have been unfrozen.",
+  "stillFrozen": "&cYou are still frozen.",
+  "admitOnlyFrozen": "&cYou can only use this command while frozen.",
+  "onlyPlayers": "&cOnly players can use this command.",
+  "freezeTitle": "&#ff0000&lYou are frozen!",
+  "freezeSubtitle": "&fLogging out will result in a ban"
+}

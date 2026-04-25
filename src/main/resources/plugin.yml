@@ -1,0 +1,24 @@
+name: PlayerFreeze
+version: ${version}
+main: de.rawnet.playerfreeze.PlayerFreezePlugin
+api-version: '1.21'
+author: rawnet
+description: Freezes players during Minecraft screensharing.
+
+commands:
+  freeze:
+    description: Freezes a player.
+    usage: /freeze <player>
+    permission: playerfreeze.use
+  unfreeze:
+    description: Unfreezes a player.
+    usage: /unfreeze <player>
+    permission: playerfreeze.use
+  admit:
+    description: Admits cheating while frozen.
+    usage: /admit
+
+permissions:
+  playerfreeze.use:
+    description: Allows /freeze and /unfreeze.
+    default: op
