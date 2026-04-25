@@ -1,4 +1,4 @@
-package de.rawnet.playerfreeze;
+package xyz.rawnet.playerfreeze;
 
 import java.io.IOException;
 import java.io.Reader;

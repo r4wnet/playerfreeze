@@ -1,6 +1,6 @@
 name: PlayerFreeze
 version: ${version}
-main: de.rawnet.playerfreeze.PlayerFreezePlugin
+main: xyz.rawnet.playerfreeze.PlayerFreezePlugin
 api-version: '1.21'
 author: rawnet
 description: Freezes players during Minecraft screensharing.

@@ -2,7 +2,7 @@ plugins {
     java
 }
 
-group = "de.rawnet"
+group = "xyz.rawnet"
 version = "1.0.0"
 
 dependencies {
